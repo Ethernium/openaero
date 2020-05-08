@@ -17,7 +17,7 @@ A collection of Linux drivers of various components for (Gigabyte) Aero devices.
 | Device                                        |   VID:PID   |
 | --------------------------------------------- | ----------- |
 | Gigabyte Aero 15X V8                          |  1044:7A39  |
-| Gigabyte Aero 15X V9                          |  1044:7a39  |
+| Gigabyte Aero 15X V9                          |  1044:7A39  |
 
 
 ## Install Instructions
