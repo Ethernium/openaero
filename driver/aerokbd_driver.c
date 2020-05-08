@@ -66,7 +66,7 @@ static int aero_kbd_probe(struct hid_device *hdev, const struct hid_device_id *i
 }
 
 static const struct hid_device_id aero_kbd_devices[] = {
-	{HID_USB_DEVICE(USB_VENDOR_ID_AERO15XV8, USB_DEVICE_ID_AERO15Xv8)},
+	{HID_USB_DEVICE(USB_VENDOR_ID_AERO15XV8, USB_DEVICE_ID_AERO15XV8)},
 	{HID_USB_DEVICE(USB_VENDOR_ID_AERO15SA, USB_DEVICE_ID_AERO15SA)},
 	{}
 };
