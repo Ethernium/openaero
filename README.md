@@ -9,6 +9,7 @@ A collection of Linux drivers of various components for (Gigabyte) Aero devices.
 - [ ] Make Fn + ESC/F2/F5/F10/F11/F12 work.
 - [ ] Make the C code into actual driver and ppa support.
 - [ ] Look into the possibility of full keyboard RGB backlight support.
+- [ ] Look into controlling fan profiles with [Fn + Esc] 
 - [ ] Add into the main linux kernel ??
 
 ## Devices (Tested)
@@ -16,6 +17,7 @@ A collection of Linux drivers of various components for (Gigabyte) Aero devices.
 | Device                                        |   VID:PID   |
 | --------------------------------------------- | ----------- |
 | Gigabyte Aero 15X V8                          |  1044:7A39  |
+| Gigabyte Aero 15X V9                          |  1044:7a39  |
 
 
 ## Install Instructions
