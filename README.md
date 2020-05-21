@@ -12,7 +12,7 @@ A collection of Linux drivers of various components for (Gigabyte) Aero devices.
 - [ ] Look into controlling fan profiles with [Fn + Esc] 
 - [ ] Add into the main linux kernel ??
 
-## Devices (Tested)
+## Supported Devices
 ### Keyboard
 | Device                                        |   VID:PID   |
 | --------------------------------------------- | ----------- |
