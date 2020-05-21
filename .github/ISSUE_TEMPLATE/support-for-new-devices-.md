@@ -1,6 +1,6 @@
 ---
 name: Support for new devices.
-about: Support for new devices.
+about: Use this issue for requesting support for new devices.
 title: Support for [Name of Device]
 labels: new device support
 assignees: blmhemu
