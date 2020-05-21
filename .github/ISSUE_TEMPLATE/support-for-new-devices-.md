@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+**Provide**
+* The full device name (E.x : Gigabyte Aero 15X V8)
+* Output of `lsusb`
+
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
