@@ -1,0 +1,21 @@
+# Object files
+*.o
+*.do
+*.da
+*.ko
+*.obj
+*.elf
+*.o.d
+
+dist
+.idea
+.project
+.cproject
+*.o.cmd
+*.ko.cmd
+/driver/.tmp_versions
+/driver/Module.symvers
+/driver/modules.order
+/driver/*.mod
+/driver/*.mod.c
+/driver/*.mod.cmd
